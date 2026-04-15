@@ -2,7 +2,7 @@
 #NIM: J0403251082
 #Kelas: TPL B1
 
-#Latihan 6: Membuat Traversal Postorder
+#Latihan 6: Membuat Traversal Preorder, Inorder, dan Postorder
 
 class Node:
     def __init__(self, data):
@@ -33,9 +33,9 @@ root.left.right = Node("Staf 2")
 root.right.left = Node("Staf 3")
 root.right.right = Node("Staf 4")
 
-print("Hasil Traversal Preorder:")
+print("Struktur Organisasi Preorder:")
 preorder(root)
-print("\nHasil Traversal Inorder:")
+print("\nStruktur Organisasi Inorder:")
 inorder(root)
-print("\nHasil Traversal Postorder:")
+print("\nStruktur Organisasi Postorder:")
 postorder(root)
