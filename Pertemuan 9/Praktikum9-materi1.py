@@ -2,7 +2,7 @@
 #NIM: J0403251082
 #Kelas: TPL B1
 
-#Latihan 1: Membuat node
+#Latihan 1: Membuat Node Tree
 
 class Node:
     def __init__(self, data):

@@ -2,7 +2,7 @@
 #NIM: J0403251082
 #Kelas: TPL B1
 
-#Latihan 4: Membuat Traversal Postorder
+#Latihan 5: Membuat Traversal Postorder
 
 class Node:
     def __init__(self, data):

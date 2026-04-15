@@ -2,7 +2,7 @@
 #NIM: J0403251082
 #Kelas: TPL B1
 
-#Latihan 6: Membuat Traversal Preorder, Inorder, dan Postorder
+#Latihan 6: Struktur Orgtanisasi Perusahaan
 
 class Node:
     def __init__(self, data):
