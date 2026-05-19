@@ -1,0 +1,5 @@
+#counter:12
+9|kayut|5.0
+10|kayu|4.0
+11|batu|10.0
+12|besi|2.0
