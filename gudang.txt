@@ -1,6 +1,6 @@
-#counter:33
+#counter:34
 21|batu|7.0
-22|marbel|2.0
+22|marbel|23.0
 29|batu|8.0
 30|keramik|4.0
 31|besi|4.0
